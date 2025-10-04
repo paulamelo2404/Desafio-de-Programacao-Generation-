@@ -25,9 +25,13 @@ Implementação em TypeScript para remoção de elementos duplicados em arrays, 
 
 ## 📁 Estrutura do Projeto
 ````
-src/
-├── ArraySimples.ts    # Classe principal com Generics
-├── main.ts           # Aplicação principal
+Desafio-de-Programacao-Generation-/
+├── src/
+│   ├── ArraySimples.ts    # Classe principal com Generics
+│   └── main.ts           # Aplicação principal
+├── README.md             # Documentação do projeto
+├── package.json          # Dependências e scripts
+└── tsconfig.json        # Configuração TypeScript
 ````
 
 ## 🚀 Como Executar
